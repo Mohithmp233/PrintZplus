@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PrintZplus - Blockchain-Based Printing Service Platform
 
 A decentralized platform that connects customers with 3D printing services using blockchain technology for secure transactions and smart contracts.
@@ -195,3 +196,6 @@ If you encounter any issues or have questions:
 ---
 
 **PrintZplus Team** - Building the future of decentralized printing services.
+=======
+# PrintZplus
+>>>>>>> 33245bee68f2b53380212685ccf9d22a86c668d1
