@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+PrintZplus is a full-stack application integrated with blockchain to provide secure, seamless, and private document printing.
 # PrintZplus - Blockchain-Based Printing Service Platform
 
 A decentralized platform that connects customers with 3D printing services using blockchain technology for secure transactions and smart contracts.
